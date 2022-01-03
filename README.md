@@ -1,4 +1,7 @@
-### Hi there 👋
+### Developer of everything/hacker wannabe
+### Python / C++ / ...pending...
+### Practice! Random motivation text!
+### Love you
 
 <!--
 **TrueRealHero/TrueRealHero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
