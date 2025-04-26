@@ -1,5 +1,6 @@
-### Developer of everything/hacker wannabe
-### Python / C++ / ...pending...
+### Developer of everything / hacker wannabe
+### Program languages: Python / C++ / C# / Kotlin / TypeScrit / Rust / Go / Zig
+### Spoken: Russian / Kyrgyz / English / 日本語 / Dansk / Nederlands / Deutsch / Italiano / Le Français / Türkçe
 ### Practice! Random motivation text!
 ### Love you
 
