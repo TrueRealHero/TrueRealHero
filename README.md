@@ -4,7 +4,7 @@
 ---
 
 ### ☘ About Me ☘:
-- On the way of searching stairway to Heaven
+- ☮ Searching for the stairway to Heaven
 - ♬ Program Languages: `Python`, `C`, `C#`, `C++`, `Swift`, `TypeScript`,  `Assembler`, `Rust` 
 - ❂ Spoken: `English`, `Japanese`, `Russian`, `Danish`, `Nederlands`, `Deutsch`,  `French`, `Italiano`, `Turkish`, `Kyrgyz`
 
@@ -70,7 +70,7 @@
 ---
 
 ### ♥ Fun Fact ♥:
-> `Ok`
+> `All of the above might be a lie. Or not. Depends on what time it is now.`
 
 
 <!--
