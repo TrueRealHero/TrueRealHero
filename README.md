@@ -6,7 +6,7 @@
 ### ☘ About Me ☘:
 - On the way of searching stairway to Heaven
 - ♬ Program Languages: `Python`, `C`, `C#`, `C++`, `Swift`, `TypeScript`,  `Assembler`, `Rust` 
-- ❂ Spoken: `English`, `Japanese`, `Russian`, `Danish`, `Nederlands`, `Deutsch`,  `French`, `Italiano`, `Turkish` 
+- ❂ Spoken: `English`, `Japanese`, `Russian`, `Danish`, `Nederlands`, `Deutsch`,  `French`, `Italiano`, `Turkish`, `Kyrgyz`
 
 <!--
 - 💬 Хочу пообщаться о: `архитектуре`, `open source`, `чем угодно`
