@@ -62,25 +62,31 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api?username=TrueRealHero&show_icons=true&theme=dark" />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=TrueRealHero&show_icons=true&theme=default" 
-      width="400" />
-  </picture>
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source 
+          media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-stats.vercel.app/api?username=TrueRealHero&show_icons=true&theme=dark&hide_border=true" />
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=TrueRealHero&show_icons=true&theme=default&hide_border=true" 
+          width="400" />
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source 
+          media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueRealHero&layout=compact&theme=dark&hide_border=true" />
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueRealHero&layout=compact&theme=default&hide_border=true" 
+          width="400" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueRealHero&layout=compact&theme=dark" />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueRealHero&layout=compact&theme=default" 
-      width="400" />
-  </picture>
-</p>
 
 <!--
 <table>
