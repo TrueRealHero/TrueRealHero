@@ -13,7 +13,7 @@
 -->
 ---
 
-### 🛠 Devops Technologies:
+### ☯ Devops Technologies:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠 Infrastructure and Network:
+### ✉ Infrastructure and Network:
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
@@ -44,14 +44,14 @@
 
 ---
 
-### 🛠 Social tools:
+### ☎ Social tools:
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 🛠 Random technologies:
+### ⚡ Random technologies:
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
@@ -65,8 +65,8 @@
 
 ---
 
-### ⚡ Fun Fact:
-> `Test`
+### ♥ Fun Fact ♥:
+> `Ok`
 
 
 <!--
