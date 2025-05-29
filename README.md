@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm Real Hero</h1>
-<h3 align="center">Reasearcher / Hacker wannabe / DevOps</h3>
+<h3 align="center">Reasearcher / Hacker wannabe / DevOps / Edge boy</h3>
 
 ---
 
 ### ☘ About Me ☘:
 - On the way of searching stairway to Heaven 
-- 🌱 Learning: `Rust`, `Zig`, `Kubernetes`
+- 🌱 Speak: `English`, `Japanese`, `Russian`, `Danish`, `Nederlands`, `Deutsch`,  `French`, `Italiano`, `Turkish`, 
 
 <!--
 - 💬 Хочу пообщаться о: `архитектуре`, `open source`, `чем угодно`
@@ -13,21 +13,54 @@
 -->
 ---
 
-### 🛠 Технологии и инструменты:
-![Go](https://img.shields.io/badge/-Go-000?style=flat&logo=go)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
-![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
+### 🛠 Devops Technologies:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+
+
+---
+
+### 🛠 Working environments:
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+---
+
+### 🛠 Infrastructure and Network:
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+---
+
+### 🛠 Social tools:
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🛠 Random technologies:
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TrueRealHero&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueRealHero&layout=compact&theme=tokyonight" />
 </p>
 
 ---
