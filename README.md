@@ -70,9 +70,9 @@
 ---
 
 ### ♥ Fun Facts ♥:
-- Zodiac: 'Capybara'
-- Age: '369 y.o.'
-- Love: 'Narcissism', 'Gym', 'Games', 'Anime', 'Science', 'Girls'
+- Zodiac: `Capybara`
+- Age: `369 y.o.`
+- Love: `Narcissism`, `Gym`, `Science`, `Girls`, `Games`, `Anime`, `Living in historical epochas`, `Nature selection`
 - > `All info above(everything) might be a lie. Or not. Depends on what time it is now.`
 
 
