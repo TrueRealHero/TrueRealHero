@@ -70,10 +70,10 @@
 ---
 
 ### ♥ Fun Facts ♥:
-> Zodiac: 'Capybara'
-> Age: '369 y.o.'
-> Love: 'Narcissism', 'Gym', 'Games', 'Anime', 'Science', 'Girls'
-> `All info above(everything) might be a lie. Or not. Depends on what time it is now.`
+- Zodiac: 'Capybara'
+- Age: '369 y.o.'
+- Love: 'Narcissism', 'Gym', 'Games', 'Anime', 'Science', 'Girls'
+- > `All info above(everything) might be a lie. Or not. Depends on what time it is now.`
 
 
 <!--
