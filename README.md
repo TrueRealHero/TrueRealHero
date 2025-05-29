@@ -64,8 +64,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=TrueRealHero&show_icons=true&bg_color=00000000)" width="400"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueRealHero&layout=compact&bg_color=00000000)" width="400"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=TrueRealHero&show_icons=true&theme=transparen)" width="400"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueRealHero&theme=transparen)" width="400"/></td>
   </tr>
 </table>
 
