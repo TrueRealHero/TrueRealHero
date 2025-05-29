@@ -62,12 +62,10 @@
 
 ### 📊 GitHub Stats:
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=TrueRealHero&show_icons=true&theme=transparent" width="400"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueRealHero&layout=compact&theme=transparent" width="400"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TrueRealHero&show_icons=true&theme=transparent" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrueRealHero&layout=compact&theme=transparent" width="400" />
+</p>
 
 ---
 
